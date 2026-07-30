@@ -72,6 +72,12 @@
     align-items: center;
 }
 
+.aaa a{
+    color: rgb(250, 232, 232);
+    font-weight: 500;
+    font-size: medium;
+}
+
 .al{
     color: white;
     text-decoration: none;
